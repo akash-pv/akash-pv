@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash PV</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Akash%20PV&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=170&section=header&text=Akash%20PV&fontSize=30&fontColor=ffffff"/>
 </p>
+
 <h3 align="center">Data Engineer | Data Analyst | Azure & ETL Specialist</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Data+Engineer;SQL+%7C+Python+%7C+ETL;Building+Scalable+Data+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&center=true&lines=Data+Engineer;Azure+%7C+ETL+%7C+Databricks;SQL+%7C+Python+%7C+Power+BI;Building+Scalable+Data+Pipelines" />
 </p>
 
 <p align="center">
@@ -18,10 +21,11 @@
 - 🎓 MCA Graduate specialized in **Data Engineering & Analytics**
 - 💼 Experience as **Implementation Consultant Intern @ ZingHR**
 - ⚡ Built **Data Warehouses, ETL Pipelines & Azure Lakehouse solutions**
-- 📊 Strong in **SQL, Python, Data Modeling & Power BI**
+- 📊 Strong in **SQL, Python (Pandas, PySpark), Data Modeling & Power BI**
 - 🚀 Actively looking for **Data Engineer / Data Analyst roles**
 
 ---
+
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
@@ -49,13 +53,15 @@
   <img src="https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi"/>
 </p>
 
+---
+
 ## 🚀 Projects
 
 ### 🔹 SQL Data Warehouse & Analytics Platform
 - Built end-to-end **Data Warehouse using PostgreSQL & SQL Server**
 - Designed **Star Schema for performance optimization**
 - Developed ETL pipelines in Python
-- Created Power BI dashboards for insights
+- Created Power BI dashboards for insights  
 
 ---
 
@@ -63,7 +69,7 @@
 - Built scalable **Lakehouse architecture on Azure**
 - Implemented **Bronze, Silver, Gold layers using Databricks**
 - Automated ETL pipelines using Azure Data Factory
-- Integrated with Azure Synapse for analytics
+- Integrated with Azure Synapse for analytics  
 
 ---
 
@@ -71,7 +77,7 @@
 - Developed **AI-powered Newsletter Management System**
 - Role-based system with MySQL backend
 - Integrated **Ollama (Mistral AI)**
-- Reduced content generation time by 30%
+- Reduced content generation time by 30%  
 
 ---
 
