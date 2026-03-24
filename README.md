@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash PV</h1>
+
 <h3 align="center">Data Engineer | Data Analyst | Azure & ETL Specialist</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Data+Engineer;Azure+Specialist;SQL+%7C+Python+%7C+ETL;Building+Scalable+Data+Systems" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-pv/">LinkedIn</a> • 
@@ -8,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 - 🎓 MCA Graduate specialized in **Data Engineering & Analytics**
 - 💼 Experience as **Implementation Consultant Intern @ ZingHR**
 - ⚡ Built **Data Warehouses, ETL Pipelines & Azure Lakehouse solutions**
@@ -17,27 +21,23 @@
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
-- Python (Pandas, NumPy, PySpark)
-- SQL  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### ☁️ Cloud & Big Data
-- Microsoft Azure  
-- Azure Data Factory  
-- Azure Data Lake Gen2  
-- Databricks  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-FF9900?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EA4335?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ⚙️ Data Engineering
-- ETL Pipelines  
-- Data Warehousing  
-- Data Modeling  
-- Medallion Architecture  
+![ETL](https://img.shields.io/badge/ETL-Pipelines-blueviolet?style=for-the-badge)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4CAF50?style=for-the-badge)
 
 ### 📊 Visualization
-- Power BI  
-- Excel  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -64,14 +64,6 @@
 - Role-based system with MySQL backend
 - Integrated **Ollama (Mistral AI)**
 - Reduced content generation time by 30%
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-pv&show_icons=true" />
-</p>
 
 ---
 
