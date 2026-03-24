@@ -24,22 +24,28 @@
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ### ☁️ Cloud & Big Data
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-FF9900?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EA4335?style=for-the-badge&logo=databricks&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Factory-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Databricks-EA4335?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
 ### ⚙️ Data Engineering
-![ETL](https://img.shields.io/badge/ETL-Pipelines-blueviolet?style=for-the-badge)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-4CAF50?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/ETL-Pipelines-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Warehouse-4CAF50?style=for-the-badge"/>
+</p>
 
 ### 📊 Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ## 🚀 Projects
 
