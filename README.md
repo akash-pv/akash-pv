@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Akash PV</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=170&section=header&text=Data%20Engineer%20%7C%20Azure%20%7C%20ETL&fontSize=26&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?
+    <h1 align="center">Hi 👋, I'm Akash PV</h1>
+    type=waving&color=0:1E3C72,100:2A5298&height=170&section=header&text=Data%20Engineer%20%7C%20Azure%20%7C%20ETL&fontSize=26&fontColor=ffffff"/>
 </p>
 
 <h3 align="center">Data Engineer | Data Analyst | Azure & ETL Specialist</h3>
