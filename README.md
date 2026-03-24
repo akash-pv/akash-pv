@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash PV</h1>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Akash%20PV&fontSize=30&fontColor=ffffff"/>
+</p>
 <h3 align="center">Data Engineer | Data Analyst | Azure & ETL Specialist</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Data+Engineer;SQL+%7C+Python+%7C+ETL;Building+Scalable+Data+Systems" />
