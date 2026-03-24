@@ -69,7 +69,7 @@
 
 ---
 
-### 🔹 ZingUpdate (Newsletter System)
+### 🔹 Newsletter System
 - Developed **AI-powered Newsletter Management System**
 - Role-based system with MySQL backend
 - Integrated **Ollama (Mistral AI)**
