@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Engineer | Data Analyst | Azure & ETL Specialist</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Data+Engineer;Azure+Specialist;SQL+%7C+Python+%7C+ETL;Building+Scalable+Data+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&lines=Data+Engineer;SQL+%7C+Python+%7C+ETL;Building+Scalable+Data+Systems" />
 </p>
 
 <p align="center">
