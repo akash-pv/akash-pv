@@ -20,31 +20,31 @@
 - 🚀 Actively looking for **Data Engineer / Data Analyst roles**
 
 ---
-
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-333333?style=flat&logo=microsoftsqlserver"/>
 </p>
 
 ### ☁️ Cloud & Big Data
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Factory-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Databricks-EA4335?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/Data%20Factory-333333?style=flat"/>
+  <img src="https://img.shields.io/badge/Databricks-333333?style=flat&logo=databricks"/>
 </p>
 
 ### ⚙️ Data Engineering
 <p>
-  <img src="https://img.shields.io/badge/ETL-Pipelines-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Warehouse-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL-555555?style=flat"/>
+  <img src="https://img.shields.io/badge/Pipelines-555555?style=flat"/>
+  <img src="https://img.shields.io/badge/Data%20Warehouse-555555?style=flat"/>
 </p>
 
 ### 📊 Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi"/>
 </p>
 
 ## 🚀 Projects
