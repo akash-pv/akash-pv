@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    <h1 align="center">Hi 👋, I'm Akash PV</h1>
-    type=waving&color=0:1E3C72,100:2A5298&height=170&section=header&text=Data%20Engineer%20%7C%20Azure%20%7C%20ETL&fontSize=26&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=180&section=header&text=Akash%20PV&desc=Data%20Engineer%20%7C%20Azure%20%7C%20ETL&descSize=18&descAlign=50&fontSize=34&fontColor=ffffff"/>
 </p>
 
-<h3 align="center">Data Engineer | Data Analyst | Azure & ETL Specialist</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&center=true&lines=Data+Engineer;Azure+%7C+ETL+%7C+Databricks;SQL+%7C+Python+%7C+Power+BI;Building+Scalable+Data+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&center=true&lines=Azure+%7C+ETL+%7C+Databricks;SQL+%7C+Python+%7C+Power+BI;Building+Scalable+Data+Pipelines" />
 </p>
 
 <p align="center">
