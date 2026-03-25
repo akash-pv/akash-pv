@@ -24,32 +24,42 @@
 
 ## ⚡ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-333333?style=flat&logo=microsoftsqlserver"/>
-</p>
+<table style="border: none;">
+<tr style="border: none;">
+<td width="60%" style="border: none; vertical-align: top;">
 
-### ☁️ Cloud & Big Data
-<p>
-  <img src="https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/Data%20Factory-333333?style=flat"/>
-  <img src="https://img.shields.io/badge/Databricks-333333?style=flat&logo=databricks"/>
-</p>
+### 👨‍💻 Languages & Tools  
 
-### ⚙️ Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/ETL-555555?style=flat"/>
-  <img src="https://img.shields.io/badge/Pipelines-555555?style=flat"/>
-  <img src="https://img.shields.io/badge/Data%20Warehouse-555555?style=flat"/>
-</p>
+<img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-333333?style=flat&logo=microsoftsqlserver"/>
 
-### 📊 Visualization
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi"/>
-</p>
+### ☁️ Cloud & Big Data  
 
----
+<img src="https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Data%20Factory-333333?style=flat"/>
+<img src="https://img.shields.io/badge/Databricks-333333?style=flat&logo=databricks"/>
+
+### ⚙️ Data Engineering  
+
+<img src="https://img.shields.io/badge/ETL-555555?style=flat"/>
+<img src="https://img.shields.io/badge/Pipelines-555555?style=flat"/>
+<img src="https://img.shields.io/badge/Data%20Warehouse-555555?style=flat"/>
+
+
+### 📊 Visualization  
+
+<img src="https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi"/>
+
+</td>
+
+<td width="40%" align="right" style="border: none; padding-left: 80px;">
+
+<img src="assets/coding.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 🚀 Projects
 
