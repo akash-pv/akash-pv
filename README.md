@@ -24,9 +24,10 @@
 
 ## ⚡ Tech Stack
 
-<table style="border: none;">
-<tr style="border: none;">
-<td width="60%" style="border: none; vertical-align: top;">
+<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<tr>
+
+<td width="55%" style="border: none; vertical-align: top;">
 
 ### 👨‍💻 Languages & Tools  
 
@@ -45,18 +46,18 @@
 <img src="https://img.shields.io/badge/Pipelines-555555?style=flat"/>
 <img src="https://img.shields.io/badge/Data%20Warehouse-555555?style=flat"/>
 
-
 ### 📊 Visualization  
 
 <img src="https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi"/>
 
 </td>
 
-<td width="40%" align="right" style="border: none; padding-left: 80px;">
+<td width="45%" align="right" style="border: none; padding: 0;">
 
-<img src="assets/coding.gif" width="320"/>
+<img src="assets/coding.gif" style="display:block; margin-left:auto;" width="160%"/>
 
 </td>
+
 </tr>
 </table>
 
