@@ -69,6 +69,7 @@
 - Designed **Star Schema for performance optimization**
 - Developed ETL pipelines in Python
 - Created Power BI dashboards for insights  
+- 🔗 [View Project](https://github.com/akash-pv)
 
 ---
 
@@ -77,14 +78,25 @@
 - Implemented **Bronze, Silver, Gold layers using Databricks**
 - Automated ETL pipelines using Azure Data Factory
 - Integrated with Azure Synapse for analytics  
+- 🔗 [View Project](https://github.com/akash-pv)
 
 ---
 
-### 🔹 Newsletter System
+### 🔹 AI Newsletter Management System
 - Developed **AI-powered Newsletter Management System**
 - Role-based system with MySQL backend
 - Integrated **Ollama (Mistral AI)**
 - Reduced content generation time by 30%  
+- 🔗 [View Project](https://github.com/akash-pv/newsletter-system)
+
+---
+
+### 🔹 Pneumonia Detection using VGG19
+- Built a **Deep Learning model using VGG19** for pneumonia detection from chest X-rays  
+- Applied **Transfer Learning with TensorFlow/Keras**  
+- Achieved high accuracy in medical image classification  
+- Implemented preprocessing and augmentation for better performance  
+- 🔗 [View Project](https://github.com/akash-pv/Automated-pneumonia-detection-using-vgg19)
 
 ---
 
