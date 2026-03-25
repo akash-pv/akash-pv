@@ -69,7 +69,6 @@
 - Designed **Star Schema for performance optimization**
 - Developed ETL pipelines in Python
 - Created Power BI dashboards for insights  
-- 🔗 [View Project](https://github.com/akash-pv)
 
 ---
 
@@ -78,7 +77,6 @@
 - Implemented **Bronze, Silver, Gold layers using Databricks**
 - Automated ETL pipelines using Azure Data Factory
 - Integrated with Azure Synapse for analytics  
-- 🔗 [View Project](https://github.com/akash-pv)
 
 ---
 
