@@ -19,9 +19,9 @@
 - 🎓 MCA Graduate specialized in **Data Engineering & Analytics**
 - 💼 Interned as **Implementation Consultant @ ZingHR** and **Data Engineering Trainee @ Rubixe AI**
 - ⚡ Built **Data Warehouses, ETL Pipelines, Azure Lakehouses & AI-powered systems**
-- 📊 Strong in **SQL, Python (Pandas, PySpark), Azure, Databricks & Power BI**
+- 📊 Strong in **SQL, Python (Pandas, NumPy), Azure, Databricks & Power BI**
 - 🏆 **NASSCOM Certified Data Engineer** · Published researcher at SACAIM 2024
-- 🚀 Actively looking for **Data Engineer / Data Analyst roles**
+- 🚀 Actively looking for **Junior Data Engineer / Data Analyst roles**
 
 ---
 
