@@ -63,6 +63,18 @@
 
 ## 🚀 Projects
 
+### 🔹 Brazilian E-Commerce Sales & Customer Analytics (MySQL)
+- Analysed the Brazilian E-Commerce Public Dataset by Olist across **8 relational tables** containing **550,759 records**
+- Designed the relational database schema with primary keys, composite keys and foreign key constraints; documented the relationships in an ER diagram
+- Loaded CSV datasets into MySQL using `LOAD DATA LOCAL INFILE` and reconciled imported row counts against the source files
+- Developed **21 SQL business queries** covering sales, products, customers, sellers, payments, reviews and delivery performance
+- Performed data quality checks for NULL identifier values, duplicate key groups and orphan records across key table relationships
+- Identified product-category mapping issues affecting **623 products**: 610 empty category values and 13 products across two categories without translations
+- 🔗 [View Project](https://github.com/akash-pv/olist-ecommerce-sql-analytics)
+- 📄 [View Project Report](https://github.com/akash-pv/olist-ecommerce-sql-analytics/blob/main/docs/Olist_Ecommerce_Final_Report.docx)
+
+---
+
 ### 🔹 Azure Data Lakehouse Pipeline
 - Built scalable **Lakehouse architecture on Microsoft Azure** using AdventureWorks dataset (~77,000 rows)
 - Implemented **Medallion Architecture — Bronze, Silver, Gold layers** using Databricks & PySpark
