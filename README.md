@@ -71,7 +71,7 @@
 - Performed data quality checks for NULL identifier values, duplicate key groups and orphan records across key table relationships
 - Identified product-category mapping issues affecting **623 products**: 610 empty category values and 13 products across two categories without translations
 - 🔗 [View Project](https://github.com/akash-pv/olist-ecommerce-sql-analytics)
-- 📄 [View Project Report](https://github.com/akash-pv/olist-ecommerce-sql-analytics/blob/main/docs/Olist_Ecommerce_Final_Report.docx)
+- 📊 [View SQL Queries & Results](https://github.com/akash-pv/olist-ecommerce-sql-analytics/blob/main/docs/SQL_Queries_and_Results.md)
 
 ---
 
