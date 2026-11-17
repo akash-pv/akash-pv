@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=200&section=header&text=AKASH%20PV&desc=Data%20Analyst%20%7C%20Data%20Engineer&descSize=18&descAlign=50&fontSize=34&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=200&section=header&text=AKASH%20PV&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descSize=18&descAlign=50&fontSize=34&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&center=true&lines=Azure+%7C+ETL+%7C+Databricks;SQL+%7C+Python+%7C+PySpark;Building+Scalable+Data+Pipelines" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2A5298&center=true&lines=SQL+%7C+Power+BI+%7C+Excel;Python+%7C+Pandas+%7C+NumPy;Turning+Data+into+Actionable+Insights" />
 </p>
 
 <p align="center">
@@ -16,12 +16,13 @@
 
 ## 🚀 About Me
 
-- 🎓 MCA Graduate specialized in **Data Engineering & Analytics**
-- 💼 Interned as **Implementation Consultant @ ZingHR** 
-- ⚡ Built **Data Warehouses, ETL Pipelines, Azure Lakehouses & AI-powered systems**
-- 📊 Strong in **SQL, Python (Pandas, NumPy), Azure, Databricks & Power BI**
+- 🎓 MCA Graduate specializing in **Data Analytics & Business Intelligence**
+- 💼 Interned as **Implementation Consultant @ ZingHR**
+- 📊 Interested in **Data Analysis, Business Intelligence, and Data Visualization**
+- ⚡ Experienced in **SQL, Python (Pandas, NumPy), Power BI and Excel**
+- ☁️ Additional experience with **Azure, Databricks, PySpark and ETL Pipelines**
 - 🏆 **NASSCOM Certified Data Engineer** · Published researcher at SACAIM 2024
-- 🚀 Actively looking for **Junior Data Engineer / Data Analyst roles**
+- 🚀 Actively looking for **Data Analyst opportunities**
 
 ---
 
@@ -31,24 +32,28 @@
 <tr>
 <td width="55%" style="border: none; vertical-align: top;">
 
-### 👨‍💻 Languages
+### 📊 Data Analytics & BI
+<img src="https://img.shields.io/badge/SQL-333333?style=flat&logo=mysql"/>
+<img src="https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Excel-333333?style=flat&logo=microsoftexcel"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-333333?style=flat"/>
+
+### 👨‍💻 Programming & Data Analysis
 <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python"/>
-<img src="https://img.shields.io/badge/SQL-333333?style=flat&logo=microsoftsqlserver"/>
-<img src="https://img.shields.io/badge/PySpark-333333?style=flat&logo=apachespark"/>
+<img src="https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy"/>
+<img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql"/>
 
 ### ☁️ Cloud & Big Data
 <img src="https://img.shields.io/badge/Azure-333333?style=flat&logo=microsoftazure"/>
 <img src="https://img.shields.io/badge/Data%20Factory-333333?style=flat"/>
 <img src="https://img.shields.io/badge/Databricks-333333?style=flat&logo=databricks"/>
+<img src="https://img.shields.io/badge/PySpark-333333?style=flat&logo=apachespark"/>
 <img src="https://img.shields.io/badge/Azure%20Synapse-333333?style=flat&logo=microsoftazure"/>
 
-### ⚙️ Data Engineering
+### ⚙️ Tools & Technologies
 <img src="https://img.shields.io/badge/ETL-555555?style=flat"/>
 <img src="https://img.shields.io/badge/Medallion%20Architecture-555555?style=flat"/>
-<img src="https://img.shields.io/badge/Data%20Warehouse-555555?style=flat"/>
-
-### 📊 Visualization & Tools
-<img src="https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker"/>
 <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git"/>
 
