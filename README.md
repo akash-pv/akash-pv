@@ -22,7 +22,8 @@
 - ⚡ Experienced in **SQL, Python (Pandas, NumPy), Power BI and Excel**
 - ☁️ Additional experience with **Azure, Databricks, PySpark and ETL Pipelines**
 - 🏆 **NASSCOM Certified Data Engineer** · Published researcher at SACAIM 2024
-- 🚀 Actively looking for **Data Analyst opportunities**
+- 🚀 Actively seeking **Data Analyst / BI Analyst opportunities**
+- 💡 Also open to **SQL Developer and Junior Data Engineer roles**
 
 ---
 
